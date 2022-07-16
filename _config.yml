@@ -23,7 +23,7 @@ timezone: 'America/Mexico_City'
 
 title: 11Juan94 Blog                          # the main title
 
-tagline: Website to publish some problems, blogs, and tech   # it will display as the sub-title
+tagline: Have you answered yourself the why of the things?   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   11Juan94 personal blog about the life and tech.
